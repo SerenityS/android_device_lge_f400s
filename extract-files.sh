@@ -3,5 +3,5 @@
 set -e
 
 export VENDOR=lge
-export DEVICE=d851
+export DEVICE=f400s
 ./../../$VENDOR/g3-common/extract-files.sh $@
